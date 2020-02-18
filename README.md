@@ -1,6 +1,6 @@
 # Références pour le cours de matériel
 
-## Chaînes YouTube à suivre
+## Chaînes YouTube
 
 1. [Linus Tech Tips](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw)
 2. [TechLinked](https://www.youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA)
@@ -11,7 +11,7 @@
 
 - [Outils nécessaires](https://www.youtube.com/watch?v=bJAVkoPFTp8)
 
-Voici quelques idées pour l'achat de matériel :
+Voici quelques idées d'achats :
 
 - [Pro Tech Toolkit - IFixIt](https://canada.ifixit.com/products/pro-tech-toolkit)
 - [Tapis de travail - GamerNexus](https://store.gamersnexus.net/modmat)
@@ -21,18 +21,18 @@ Voici quelques idées pour l'achat de matériel :
 - [Filtre à café](https://www.amazon.ca/-/fr/dp/B000BOHJCC/ref=sr_1_2?__mk_fr_CA=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=coffee+filter&qid=1582033821&sr=8-2)
 - [Alcool 99.9%](https://www.amazon.ca/-/fr/Chemicals-isopropylique-A%C3%A9rosol-Nettoyant-liquide/dp/B005T8PL1Q/ref=sr_1_6?__mk_fr_CA=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1DQV44348S9FI&keywords=isopropyl+alcohol+99%25&qid=1582033838&sprefix=alcool+isopropylique+%2Caps%2C191&sr=8-6)
 
-## Choisir adéquatement les pièces d'un ordinateur
+## Choisir adéquatement les composantes d'un ordinateur
 
-- [Comment choisir ses composantes](https://www.youtube.com/watch?v=j_DcWgxMZ3k)
-- [Site pour sélectionner des pièces](https://pcpartpicker.com/)
+- [Choisir les composantes](https://www.youtube.com/watch?v=j_DcWgxMZ3k)
+- [Site pour la sélection des composantes](https://pcpartpicker.com/)
 
 ## Assembler un ordinateur
 
-- [Comment tester les pièces](https://www.youtube.com/watch?v=9206E_rOduU)
+- [Comment tester les composantes](https://www.youtube.com/watch?v=9206E_rOduU)
 - [Assembler un ordinateur](https://www.youtube.com/watch?v=v7MYOpFONCU)
 - [Gestion des câbles](https://www.youtube.com/watch?v=HkB-GNEt9Fk)
 
-## Quoi faire suis à l'assemblage d'un ordinateur
+## Quoi faire suite après l'assemblage
 
 - [Étapes à effectuer suite à l'assemblage d'un ordinateur](https://www.youtube.com/watch?v=RYYoCXh2gtw)
 - [Configuration de Windows 10](https://www.youtube.com/watch?v=9nK7T_KdzCQ&feature=youtu.be)
@@ -46,15 +46,15 @@ Voici quelques idées pour l'achat de matériel :
 ## Réparer un ordinateur
 
 - [Réparer les pins d'un cpu](https://www.youtube.com/watch?v=y8U2NkbiMAI)
-- [Réparer les pins d'un cpu hard way](https://www.youtube.com/watch?v=yh2XYkRwtBQ)
+- [Réparer les pins d'un cpu "hard way"](https://www.youtube.com/watch?v=yh2XYkRwtBQ)
 - [Remettre les paramètres du BIOS à zéro - Clear CMOS](https://www.supinfo.com/articles/single/1121-clear-cmos-3-manieres-effectuer)
 
 ## Outils
 
-- [Outil pour désinstaller tous les drivers graphiques](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html)
-- [Medicat](https://korben.info/medicat-distrib-linux-windows-10-depanner-vos-ordinateurs.html)
+- [Désinstaller tous les drivers graphiques](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html)
+- [Trousse d'outils - Medicat](https://korben.info/medicat-distrib-linux-windows-10-depanner-vos-ordinateurs.html)
 
 ## Autres
 
-- [Comprendre la circulation de l'air dans un boitier](https://www.youtube.com/watch?v=sh6F2eccMec)
+- [Comprendre la circulation de l'air dans un boîtier](https://www.youtube.com/watch?v=sh6F2eccMec)
 - [Est-ce bénéfique d'overclocker?](https://www.youtube.com/watch?v=yyv9Y2miV64)
